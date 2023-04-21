@@ -16,7 +16,7 @@ The banking sector faces the challenge of identifying fraudulent activity in fin
 ### File descriptions:
 
 1. Code__Fraud_Detection_In_Financial_Transactions.ipynb: Jupyter notebook containing the code for the hybrid model.
-2. bankSim_payments_dataset.csv: Dataset containing credit card transactions (used for training and testing the model).
+2. bankSim_payments_dataset.csv:https://www.kaggle.com/datasets/ealaxi/banksim1?resource=download
 3. README.md: This file.
 
 ### Acknowledgments:
