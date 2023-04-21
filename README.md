@@ -12,5 +12,22 @@ Instructions for running the code:
 3) Open the Jupyter notebook/ Google Colab "Code__Fraud_Detection_In_Financial_Transactions.ipynb".
 4) Run the code cells in order.
 
+File descriptions:
+
+1. Code__Fraud_Detection_In_Financial_Transactions.ipynb: Jupyter notebook containing the code for the hybrid model.
+2. bankSim_payments_dataset.csv: Dataset containing credit card transactions (used for training and testing the model).
+3. README.md: This file.
+
+License:
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Acknowledgments:
+
+Dataset source: https://www.kaggle.com/
+XGBoost documentation: https://xgboost.readthedocs.io/en/latest/
+Scikit-learn documentation: https://scikit-learn.org/stable/documentation.html
+Pandas documentation: https://pandas.pydata.org/docs/
+
+
 License:
 This project is licensed under the MIT License - see the LICENSE.md file for details.
